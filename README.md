@@ -5,4 +5,4 @@
 
 - *Computer Scientist*
 
-- 🔭 I’m currently working on [my Web Projects](https://new-af.github.io/)
+- 🔭 Currently working on [my portfolio](https://new-af.github.io/)
