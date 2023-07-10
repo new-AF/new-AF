@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Fatota</h1>
 <h2 align="center">Software Engineer</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=new-af&row=1&column=3&no-frame=true" alt="new-af" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=new-af&row=1&column=3&no-frame=true&theme=dark_lover&no-bg=true" alt="new-af" /></a> </p>
 
 <h3 align="center">Languages and Tools I use:</h3>
 <p align="center">
