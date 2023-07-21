@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abdullah Fatota</h1>
-<h2 align="center">Software Engineer</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=new-af&row=1&column=3&no-frame=true&theme=dark_lover&no-bg=true" alt="new-af" /></a> </p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/abdullah-fatota-039a34218/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge" />
+    </a>
+    <a href="https://new-af.github.io/">
+        <img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages / Website Badge" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=new-af&row=1&column=3&no-frame=true&theme=dark_lover&no-bg=true" alt="new-af" />
+    </a>
+</p>
 
 <h3 align="center">Languages and Tools I use:</h3>
 <p align="center">
@@ -13,11 +26,13 @@
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge"/>
 
+<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite Badge"/>
+
 <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js Badge"/>
 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=new-af&show_icons=true&theme=flat&locale=en&layout=compact&hide=tcl&custom_title=My%20most%20used%20programming%20languages&card_width=400" height="150" alt="new-af" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=new-af&theme=flat" height="150" alt="new-af" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=new-af&show_icons=true&theme=flat&locale=en&layout=compact&hide=tcl&custom_title=My%20most%20used%20programming%20languages&title_color=000000&card_width=400" height="150" alt="new-af" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=new-af&theme=flat" height="150" alt="new-af" />
 </p>
