@@ -15,10 +15,21 @@
     </a>
 </p>
 
-<h3 align="center">Languages and Tools I use:</h3>
+<h3 align="center">Stuff I use</h3>
+
+<h4 align="center">For general pursose software engineering</h4>
 <p align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge"/>
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+
+![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge)
+
+</p>
+
+<h4 align="center">For frontend web applications</h4>
+<p align="center">
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Badge"/>
 
@@ -27,6 +38,13 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge"/>
 
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite Badge"/>
+
+</p>
+
+<h4 align="center">For backend web services</h4>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge" alt="Express.js Badge"/>
 
 <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js Badge"/>
 
