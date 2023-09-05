@@ -15,9 +15,9 @@
     </a>
 </p>
 
-<h3 align="center">Stuff I use</h3>
+<h3 align="center">I use</h3>
 
-<h4 align="center">For general pursose software engineering</h4>
+<h4 align="center">For General Pursose Software</h4>
 <p align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge"/>
@@ -28,7 +28,7 @@
 
 </p>
 
-<h4 align="center">For frontend web applications</h4>
+<h4 align="center">For Frontend Web Applications</h4>
 <p align="center">
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Badge"/>
@@ -41,7 +41,7 @@
 
 </p>
 
-<h4 align="center">For backend web services</h4>
+<h4 align="center">For Backend Web Services</h4>
 <p align="center">
 
 <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge" alt="Express.js Badge"/>
