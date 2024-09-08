@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Fatota</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/abdullah-fatota-039a34218/">
+    <a href="https://www.linkedin.com/in/abdullah-fatota-se/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge" />
     </a>
     <a href="https://new-af.github.io/">
@@ -17,7 +17,7 @@
 
 <h3 align="center">I use</h3>
 
-<h4 align="center">For General Pursose Software</h4>
+<h4 align="center">For General Purpose Software</h4>
 <p align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge"/>
