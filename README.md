@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
+<h1 align="center">Hi 👋🏽, I'm Abdullah</h1>
 
 <p align="center">
     <a href="https://new-af.github.io/">
