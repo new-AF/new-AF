@@ -54,3 +54,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=new-af&show_icons=true&theme=flat&locale=en&layout=compact&hide=tcl&custom_title=My%20most%20used%20programming%20languages&title_color=000000&card_width=400" height="150" alt="new-af" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=new-af&theme=flat" height="150" alt="new-af" />
 </p>
+
+###### ✏️ Blog
+
+- <a href="https://new-af.github.io/blog/1-based-array-indexing">1-Based Indexing Is The Correct Way To Access Arrays</a>
+- <a href="https://new-af.github.io/blog/join-list">React Design Pattern: Join A List of Elements</a>
+- <a href="https://new-af.github.io/blog/common-node">Common NodeJS Directory and File Operations</a>
