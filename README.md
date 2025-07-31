@@ -55,7 +55,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=new-af&theme=flat" height="150" alt="new-af" />
 </p>
 
-###### ✏️ Blog
+### ✏️ Blog
 
 - <a href="https://new-af.github.io/blog/1-based-array-indexing">1-Based Indexing Is The Correct Way To Access Arrays</a>
 - <a href="https://new-af.github.io/blog/join-list">React Design Pattern: Join A List of Elements</a>
