@@ -57,6 +57,6 @@
 
 ### ✏️ Blog
 
-- <a href="https://new-af.github.io/blog/1-based-array-indexing">1-Based Indexing Is The Correct Way To Access Arrays</a>
+- <a href="https://new-af.github.io/blog/1-based-array-indexing">1-Based Indexing Is The Better Way To Access Arrays</a>
 - <a href="https://new-af.github.io/blog/join-list">React Design Pattern: Join A List of Elements</a>
-- <a href="https://new-af.github.io/blog/common-node">Common NodeJS Directory and File Operations</a>
+- <a href="https://new-af.github.io/blog/common-node">Common Node.js Directory and File Operations</a>
