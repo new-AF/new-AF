@@ -61,4 +61,3 @@
 - [API Keys (Express Node.js API Development)](https://af-dev.com/blog/day-5-more-middleware-node-api-dev)
 - <a href="https://af-dev.com/blog/1-based-array-indexing">1-Based Indexing Is The Better Way To Access Arrays</a>
 - <a href="https://af-dev.com/blog/join-list">React Design Pattern: Join A List of Elements</a>
-- <a href="https://af-dev.com/blog/common-node">Common Node.js Directory and File Operations</a>
