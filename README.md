@@ -4,9 +4,6 @@
     <a href="https://af-dev.com/">
         <img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages / Website Badge" />
     </a>
-    <a href="https://www.linkedin.com/in/abdullah-fatota-se/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge" />
-    </a>
 </p>
 
 <p align="center">
