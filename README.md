@@ -23,7 +23,7 @@
 
 </p>
 
-<h4 align="center">For Backend Web Services</h4>
+<h4 align="center">For Backend APIs</h4>
 <p align="center">
 
 <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge" alt="Express.js Badge"/>
