@@ -20,24 +20,9 @@
 <h4 align="center">For General Purpose Software</h4>
 <p align="center">
 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript Badge" />
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge"/>
-
-<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" alt="R Badge"/>
-
-</p>
-
-<h4 align="center">For Frontend Web Applications</h4>
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Badge"/>
-
-<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=fff&style=for-the-badge" alt="Redux Toolkit Badge"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge"/>
-
-<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite Badge"/>
 
 </p>
 
@@ -49,6 +34,20 @@
 <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js Badge"/>
 
 </p>
+
+<h4 align="center">For Frontend Web Applications</h4>
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Badge"/>
+
+<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=fff&style=for-the-badge" alt="Redux Toolkit Badge"/>
+
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="Tailwind CSS Badge">
+
+<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite Badge"/>
+
+</p>
+
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=new-af&show_icons=true&theme=flat&locale=en&layout=compact&hide=tcl&custom_title=My%20most%20used%20programming%20languages&title_color=000000&card_width=400" height="150" alt="new-af" />
