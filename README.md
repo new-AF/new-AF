@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Abdullah</h1>
 
 <p align="center">
-    <a href="https://new-af.github.io/">
+    <a href="https://af-dev.com/">
         <img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages / Website Badge" />
     </a>
     <a href="https://www.linkedin.com/in/abdullah-fatota-se/">
