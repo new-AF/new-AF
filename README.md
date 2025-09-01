@@ -27,7 +27,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge" alt="Express.js Badge"/>
-
+<img src="https://img.shields.io/badge/Zod-408AFF?logo=zod&logoColor=fff&style=for-the-badge" alt="Zod Badge">
 <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js Badge"/>
 
 </p>
