@@ -47,7 +47,7 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=new-af&show_icons=true&theme=flat&locale=en&layout=compact&hide=tcl,php&custom_title=My%20most%20used%20programming%20languages&title_color=000000&card_width=400" height="150" alt="My most used programming languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=new-af&show_icons=true&theme=flat&locale=en&layout=compact&hide=tcl,php,html&custom_title=My%20most%20used%20programming%20languages&title_color=000000&card_width=400" height="150" alt="My most used programming languages" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=new-af&theme=flat" height="150" alt="new-af" />
 </p>
 
