@@ -53,6 +53,7 @@
 
 ### ✏️ Blog
 
+- [Migrating to SQLite (Express Node.js API Development)](https://af-dev.com/blog/day-8-sqlite-node-api-dev)
 - [API Testing (Express Node.js API Development)](https://af-dev.com/blog/day-7-api-testing-node-api-dev)
 - [API Keys (Express Node.js API Development)](https://af-dev.com/blog/day-6-api-keys-node-api-dev)
 - <a href="https://af-dev.com/blog/1-based-array-indexing">1-Based Indexing Is The Better Way To Access Arrays</a>
