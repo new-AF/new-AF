@@ -12,7 +12,7 @@
     </a>
 </p>
 
-<h3 align="center">I use</h3>
+<h3 align="center">Current stack</h3>
 
 <h4 align="center">For General Purpose Software</h4>
 <p align="center">
