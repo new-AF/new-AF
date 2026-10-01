@@ -50,7 +50,7 @@
 </p>
 
 ### 💼 Projects
-- [Download Debian](https://af-dev.com/download-debian/)
+- [Download Debian](https://af-dev.com/download-debian/) (as to why I made it: [I migrated to Linux](https://af-dev.com/blog/i-migrated-to-linux/))
 
 ### ✏️ Blog
 
