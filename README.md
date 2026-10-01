@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋🏽 I'm Abdullah</h1>
 
-<p align="center">🇧🇦 Software engineer & open-source developer</p>
+<h2 align="center">🇧🇦 Software engineer & open-source developer</h2>
+
 
 <p align="center">
     <a href="https://af-dev.com">
