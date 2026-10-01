@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋🏽, I'm Abdullah</h1>
+<h1 align="center">Hi 👋🏽 I'm Abdullah</h1>
+
+<p align="center">Software engineer & open-source developer</p>
 
 <p align="center">
-    <a href="https://af-dev.com/">
-        <img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages / Website Badge" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=new-af&row=1&column=3&no-frame=true&theme=dark_lover&no-bg=true" alt="new-af" />
+    <a href="https://af-dev.com">
+  <img
+    src="https://img.shields.io/badge/Check%20out%20my%20website-3a3232?style=for-the-badge&logoColor=fff"
+    alt="Check out my website"
+  />
     </a>
 </p>
 
@@ -32,7 +31,7 @@
 
 </p>
 
-<h4 align="center">For Frontend Web Applications</h4>
+<h4 align="center">For Frontend Applications</h4>
 <p align="center">
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Badge"/>
@@ -47,12 +46,15 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=new-af&show_icons=true&theme=flat&locale=en&layout=compact&hide=tcl,php,html&custom_title=My%20most%20used%20programming%20languages&title_color=000000&card_width=400" height="150" alt="My most used programming languages" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=new-af&theme=flat" height="150" alt="new-af" />
 </p>
 
+### 💼 Projects
+- [Download Debian](https://af-dev.com/download-debian/)
+
 ### ✏️ Blog
 
+- [I migrated to Linux](https://af-dev.com/blog/i-migrated-to-linux/)
 - [Migrating to SQLite (Express Node.js API Development)](https://af-dev.com/blog/day-8-sqlite-node-api-dev)
 - [API Testing (Express Node.js API Development)](https://af-dev.com/blog/day-7-api-testing-node-api-dev)
 - [API Keys (Express Node.js API Development)](https://af-dev.com/blog/day-6-api-keys-node-api-dev)
